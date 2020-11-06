@@ -1,0 +1,5 @@
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.deps.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csprojAssemblyReference.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs

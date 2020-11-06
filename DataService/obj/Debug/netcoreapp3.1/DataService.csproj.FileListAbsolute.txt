@@ -1,0 +1,11 @@
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.csprojAssemblyReference.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.runtimeconfig.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.runtimeconfig.dev.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.genruntimeconfig.cache
