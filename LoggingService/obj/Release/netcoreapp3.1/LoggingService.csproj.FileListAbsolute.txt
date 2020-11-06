@@ -1,0 +1,9 @@
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\bin\Release\netcoreapp3.1\LoggingService.deps.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\bin\Release\netcoreapp3.1\LoggingService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\bin\Release\netcoreapp3.1\LoggingService.pdb
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.csprojAssemblyReference.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.AssemblyInfoInputs.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.AssemblyInfo.cs
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\LoggingService\obj\Release\netcoreapp3.1\LoggingService.pdb
