@@ -1,0 +1,16 @@
+----------------------------------------------------------------------
+Timestamp - 09/11/2020 15:18:31 +01:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_CORE_NG.Program.Main(String[] args) in C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\CMS_CORE_NG\Program.cs:line 29"
+InnerException : null
+Source : "CMS_CORE_NG"
+Application : "CMS_CORE_NG"
+MachineName : "LAPTOP-8B136O0E"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18363.0"
+Version : "3.1.9"
+UserName : "banap"
+ProcessId : 20476
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.deps.json
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.dll
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csprojAssemblyReference.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfoInputs.cache
+C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfo.cs
