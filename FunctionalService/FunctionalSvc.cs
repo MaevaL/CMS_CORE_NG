@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FunctionalService
 {
-    class FunctionalSvc : IFunctionalSvc
+    public class FunctionalSvc : IFunctionalSvc
     {
         private readonly AdminUserOptions _adminUserOptions;
         private readonly AppUserOptions _appUserOptions;

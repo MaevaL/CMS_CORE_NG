@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
+      "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
       "projectName": "ModelService",
-      "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
+      "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
       "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\obj\\",
+      "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",

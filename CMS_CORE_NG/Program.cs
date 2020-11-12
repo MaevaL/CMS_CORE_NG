@@ -10,6 +10,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Serilog;
 using LoggingService;
+using DataService;
+using FunctionalService;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog.Sinks.SystemConsole.Themes;
 
@@ -21,20 +23,24 @@ namespace CMS_CORE_NG
         {
             var host = CreateHostBuilder(args).Build();
 
-            using (var scopte = host.Services.CreateScope())
+            using (var scope = host.Services.CreateScope())
             {
+                var services = scope.ServiceProvider;
+
                 try
                 {
-                    int z = 0;
-                    int result = 1 / z;
+                    var context = services.GetRequiredService<ApplicationDbContext>();
+                    var dpContext = services.GetRequiredService<DataProtectionKeysContext>();
+                    var functionSvc = services.GetRequiredService<IFunctionalSvc>();
+
+                    DbContextInitializer.Initialize(dpContext, context, functionSvc).Wait();
                 }
-                catch (DivideByZeroException ex)
+                catch (Exception ex)
                 {
-                    Log.Error("An error occured while seeding the database {Error} {StackTrace} {InnerException} {Source}",
-                        ex.Message, ex.StackTrace, ex.InnerException, ex.Source);
+                    Log.Error("An error occurred while seeding the database  {Error} {StackTrace} {InnerException} {Source}",
+                     ex.Message, ex.StackTrace, ex.InnerException, ex.Source);
                 }
             }
-
             host.Run();
         }
 

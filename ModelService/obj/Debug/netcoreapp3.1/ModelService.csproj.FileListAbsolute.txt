@@ -3,3 +3,12 @@ C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\bin\D
 C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csprojAssemblyReference.cache
 C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
 C:\Users\banap\OneDrive\Documents\Projects_Maëva\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.deps.json
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csprojAssemblyReference.cache
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.csproj.CoreCompileInputs.cache
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\ModelService\obj\Debug\netcoreapp3.1\ModelService.pdb

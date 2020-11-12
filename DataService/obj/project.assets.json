@@ -1595,10 +1595,7 @@
         },
         "runtime": {
           "bin/placeholder/FunctionalService.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "LoggingService/1.0.0": {
         "type": "project",
@@ -1615,10 +1612,7 @@
         },
         "runtime": {
           "bin/placeholder/LoggingService.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "ModelService/1.0.0": {
         "type": "project",
@@ -5513,11 +5507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\DataService\\DataService.csproj",
+      "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\DataService\\DataService.csproj",
       "projectName": "DataService",
-      "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\DataService\\DataService.csproj",
+      "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\DataService\\DataService.csproj",
       "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\DataService\\obj\\",
+      "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\DataService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5533,14 +5527,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {
-              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj"
+            "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {
+              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj"
             },
-            "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
-              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj"
+            "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
+              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj"
             },
-            "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
-              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj"
+            "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
+              "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj"
             }
           }
         }
@@ -5586,9 +5580,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
