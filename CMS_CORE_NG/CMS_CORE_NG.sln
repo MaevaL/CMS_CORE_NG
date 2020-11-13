@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataService", "..\DataServi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelService", "..\ModelService\ModelService.csproj", "{EF9D4837-5EEC-4673-A495-CEFA5A9414A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalService", "..\FunctionalService\FunctionalService.csproj", "{B9007377-DBAB-42BA-A29D-34A45A122B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalService", "..\FunctionalService\FunctionalService.csproj", "{B9007377-DBAB-42BA-A29D-34A45A122B71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

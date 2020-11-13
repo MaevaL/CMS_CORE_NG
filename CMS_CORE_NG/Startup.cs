@@ -11,6 +11,7 @@ using ModelService;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using System;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CMS_CORE_NG
 {
@@ -77,6 +78,8 @@ namespace CMS_CORE_NG
 
             }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
+            services.AddMvc().AddControllersAsServices().AddRazorRuntimeCompilation().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+
 
         }
 
@@ -108,6 +111,9 @@ namespace CMS_CORE_NG
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "areas",
+                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
             });
 
             app.UseSpa(spa =>

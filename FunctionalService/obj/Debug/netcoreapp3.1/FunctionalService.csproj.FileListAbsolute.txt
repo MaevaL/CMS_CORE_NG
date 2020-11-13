@@ -17,3 +17,17 @@ C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\Functiona
 C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CopyComplete
 C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.dll
 C:\Users\banap\OneDrive\Documents\Projet-Maeva\CMS_CORE_NG\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.pdb
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.deps.json
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.dll
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.pdb
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.dll
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csprojAssemblyReference.cache
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfoInputs.cache
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfo.cs
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CoreCompileInputs.cache
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CopyComplete
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.dll
+C:\Users\banap\Documents\Projects_Maëva\CMS_CORE_NG\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.pdb

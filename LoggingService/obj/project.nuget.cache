@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKCUqv4GPCobx2tc8zEYPCXqxDsTzDK9ctAOyNtWZa6j0zWckCZen71b0O6H072yqajwYrj1hHEN/ngquk6BQQ==",
+  "dgSpecHash": "NdNsW/nkQeIVhcJGdcSja1dO83KY+WN36NYTNQar7EwRkm8AN+1vOJF8tNjyBhAfuEDMOBHXJiH21POROCpQaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
+  "projectFilePath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\banap\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\banap\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

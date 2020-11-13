@@ -3673,11 +3673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
+      "projectUniqueName": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
       "projectName": "LoggingService",
-      "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
+      "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
       "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\obj\\",
+      "outputPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3736,6 +3736,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

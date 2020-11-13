@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {}
+    "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {
+    "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj",
+        "projectUniqueName": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj",
         "projectName": "FunctionalService",
-        "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj",
+        "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\FunctionalService.csproj",
         "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\FunctionalService\\obj\\",
+        "outputPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\FunctionalService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
-                "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj"
+              "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
+                "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj"
               },
-              "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
-                "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj"
+              "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
+                "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj"
               }
             }
           }
@@ -47,7 +47,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
@@ -65,6 +65,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -73,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
+    "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
+        "projectUniqueName": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
         "projectName": "LoggingService",
-        "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
+        "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\LoggingService.csproj",
         "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\LoggingService\\obj\\",
+        "outputPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\LoggingService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,6 +142,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -147,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
+    "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
+        "projectUniqueName": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
         "projectName": "ModelService",
-        "projectPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
+        "projectPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\ModelService.csproj",
         "packagesPath": "C:\\Users\\banap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banap\\OneDrive\\Documents\\Projet-Maeva\\CMS_CORE_NG\\CMS_CORE_NG\\ModelService\\obj\\",
+        "outputPath": "C:\\Users\\banap\\Documents\\Projects_Maëva\\CMS_CORE_NG\\ModelService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\banap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,7 +189,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
